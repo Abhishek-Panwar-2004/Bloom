@@ -405,7 +405,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-block-end: 60px;
+  margin-block-end: 30px;
 }
 
 .navbar .logo { color: var(--white); }
