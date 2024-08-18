@@ -354,7 +354,7 @@ body {
 
 .header.active {
   background-color: var(--white);
-  padding-block: 15px;
+  padding-block: 5px;
   box-shadow: var(--shadow-1);
 }
 
