@@ -37,7 +37,6 @@ h1 {
 
 .faq.active::after, .faq.active::before {
 	color: #2ecc71;
-	content: '\f075';
 	font-family: 'Font Awesome 5 Free';
 	font-size: 7rem;
 	position: absolute;
