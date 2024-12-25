@@ -38,6 +38,7 @@
   --black: hsl(0, 0%, 0%);
   --onyx: hsl(240, 5%, 26%);
   --jet: hsl(0, 0%, 21%);
+  --want: hsl(233, 100%, 94%);
 
   /**
    * gradient
@@ -1246,7 +1247,7 @@ body {
    */
 
   .hero {
-    background-image: linear-gradient(to right, var(--white) 79%, var(--mustard) 79%);
+    background-image: linear-gradient(to right, var(--white) 79%, var(--want) 79%);
     overflow: hidden;
   }
 
